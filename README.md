@@ -1,4 +1,11 @@
-## Hi there 👋
+Hi there 👋
+
+## TLDR
+Backend engineer in Japan.
+
+## Skills
+Illustrator, Photoshop
+TypeScript, JavaScript, C#
 
 <!--
 **wmkeza/wmkeza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
